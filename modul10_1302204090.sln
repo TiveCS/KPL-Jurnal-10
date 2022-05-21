@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul10_1302204090", "modul10_1302204090\modul10_1302204090.csproj", "{3E3FE44F-F7E6-4306-BF3B-D272D891C8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CariPangkatTest", "CariPangkatTest\CariPangkatTest.csproj", "{A26B1574-03D8-45EA-AEA7-8FBB6E2C0248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E3FE44F-F7E6-4306-BF3B-D272D891C8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3FE44F-F7E6-4306-BF3B-D272D891C8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3FE44F-F7E6-4306-BF3B-D272D891C8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3FE44F-F7E6-4306-BF3B-D272D891C8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26B1574-03D8-45EA-AEA7-8FBB6E2C0248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26B1574-03D8-45EA-AEA7-8FBB6E2C0248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26B1574-03D8-45EA-AEA7-8FBB6E2C0248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26B1574-03D8-45EA-AEA7-8FBB6E2C0248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {730E8BB2-C478-486B-B0A8-FF23BA5A0665}
+	EndGlobalSection
+EndGlobal
